@@ -32,3 +32,13 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [GitHub URL](https://github.com/your-profile/your-project-name)
 
 ***
+# Something Educational
+### We will create something educational. It may be history, math, theater, or something completely different!
+* Teammates:
+    - Veronica Eulenberg (@HappyViki)
+    - Blake Crawford (@wulfmatik)
+* Seeking Teammates: Yes
+* [Project URL](https://github.com/HappyViki/something-educational)
+* TBD
+
+***
